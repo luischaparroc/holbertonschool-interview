@@ -8,3 +8,4 @@ Exercises:
 | ------------ | ----------- |
 | `0x00-lockboxes` | Checks if boxes in a list can be unlocked (`Python`) |
 | `0x01-insert_in_sorted_linked_list` | Inserts a node in a sorted singly linked list (`C`) |
+| `0x02-heap_insert` | Inserts a node in a binary tree & a binary heap tree (`C`) |
