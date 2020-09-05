@@ -12,4 +12,5 @@ Exercises:
 | `0x03-minimum_operations` | Returns the minimum operations to reach n repetitions of H in a text editor with only two options (Copy All and Paste) (`Python`) |
 | `0x04-sandpiles` | Computes the sum of two sandpiles (`C`) |
 | `0x05-linked_list_palindrome` | Checks if a singly linked list is a palindrome (`C`) |
-| `0-stats.py` | Write a script that reads stdin line by line and computes `metrics` (`Python`) |
+| `0x06-log_parsing` | Write a script that reads stdin line by line and computes `metrics` (`Python`) |
+| `0x07-linked_list_cycle` | Checks if a singly linked list has a cycle in it (`C`) |
