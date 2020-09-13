@@ -14,3 +14,4 @@ Exercises:
 | `0x05-linked_list_palindrome` | Checks if a singly linked list is a palindrome (`C`) |
 | `0x06-log_parsing` | Write a script that reads stdin line by line and computes `metrics` (`Python`) |
 | `0x07-linked_list_cycle` | Checks if a singly linked list has a cycle in it (`C`) |
+| `0x08-palindrome_integer` | Checks whether or not a given unsigned integer is a palindrome (`C`) |
