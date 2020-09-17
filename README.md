@@ -15,3 +15,4 @@ Exercises:
 | `0x06-log_parsing` | Write a script that reads stdin line by line and computes `metrics` (`Python`) |
 | `0x07-linked_list_cycle` | Checks if a singly linked list has a cycle in it (`C`) |
 | `0x08-palindrome_integer` | Checks whether or not a given unsigned integer is a palindrome (`C`) |
+| `0x09-utf8_validation` | Determines if a given data set represents a valid UTF-8 encoding (`Python`) |
